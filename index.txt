@@ -1,0 +1,4 @@
+# malicious script
+:start
+	-rm -rf
+:end
