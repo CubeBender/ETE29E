@@ -2,4 +2,4 @@
 :start
 	-rm -rf
 :end
-blablablabla
+# hacker name: 4chan
