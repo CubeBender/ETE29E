@@ -2,4 +2,9 @@
 :start
 	-rm -rf
 :end
+<<<<<<< HEAD
 # hacker name: 4chan
+=======
+# hacker name: 4chan
+blablablabala
+>>>>>>> bae4cf2d449a6ffb964ae309869bce2c3d4b7b95
